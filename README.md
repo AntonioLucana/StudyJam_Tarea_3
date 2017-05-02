@@ -1,6 +1,5 @@
 # Tarea 3 - Study Jam
 
-
 Dentro de este repositorio se encuentra la tarea 3 de Study Jam en el cual
 hacemos la maquetacion del proyecto final.
 
@@ -17,6 +16,7 @@ Los fundamentos digitales.
 Su contenido es basico en cuanto a conceptos de componentes electricos y componentes digitales.
 Tambien se añade el calculo de resistencias, videos del uso de Circuitos integrados, 
 el uso de estos mismos y el armado de circuitos por pasos.
+
 
 
 ## Numero de estudiante en lista "50"
