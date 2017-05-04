@@ -14,4 +14,6 @@ Los fundamentos digitales.
 
 
 
+Las capturas de la aplicacion se encuentra en la carpeta "Capturas"
+
 ## Numero de estudiante en lista "50"
