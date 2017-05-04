@@ -4,6 +4,7 @@ Dentro de este repositorio se encuentra la tarea 3 de Study Jam en el cual
 hacemos la maquetacion del proyecto final.
 
 ##
+Link de los Wireframes en NinjaMock de mi proyecto final de Study Jam  https://ninjamock.com/s/3R5JX
 
 Se puede apreciar la maquetacion de la aplicacion:
 -La aplicacion de nombre "ElectroJet AJ" es una aplicacion basada en la Electronica Basica y
@@ -14,6 +15,5 @@ Los fundamentos digitales.
 
 
 
-Las capturas de la aplicacion se encuentra en la carpeta "Capturas"
 
 ## Numero de estudiante en lista "50"
