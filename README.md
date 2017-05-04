@@ -12,21 +12,6 @@ Los fundamentos digitales.
 -Tambien se añade el calculo de resistencias, videos del uso de Circuitos integrados, 
 -El uso de estos mismos y el armado de circuitos por pasos.
 
-Run
-
-## Captura
-
-s<div align="center">
-    
-<center>
-        
-<img Capturas="Capturas/imagen1.jpg" width="300">
-
-    
-</center>
-</div>
-<br><br>
-
 
 
 ## Numero de estudiante en lista "50"
