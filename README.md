@@ -20,7 +20,7 @@ s<div align="center">
     
 <center>
         
-<img Capturas="imagen1.jpg" width="300">
+<img Capturas="Capturas/imagen1.jpg" width="300">
 
     
 </center>
